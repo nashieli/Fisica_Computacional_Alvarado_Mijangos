@@ -1,1 +1,2 @@
 # Fisica_Computacional_Alvarado_Mijangos
+Tareas de Alvarado_Sandra
